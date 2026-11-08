@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scverse/squidpy/commit/7123a38b0db38966ed05898b2d9961eeb9071427",
       "git:hexsha": "7123a38b0db38966ed05898b2d9961eeb9071427",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T00:28:04.085032+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scverse/squidpy/commit/a1021aa22ee3727fb5702d41af16d1086624b130",
