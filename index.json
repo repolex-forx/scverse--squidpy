@@ -1,0 +1,11 @@
+{
+  "org": "scverse",
+  "repo": "squidpy",
+  "versions": [
+    {
+      "commit": "7123a38b0db38966ed05898b2d9961eeb9071427",
+      "tag": "",
+      "parsed_at": "2026-11-08T00:28:04.085684+00:00"
+    }
+  ]
+}
